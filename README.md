@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/1*MmMPBUewwVQeWEaDzloW0w.png)
 <h1 align="center">Hi 👋, I'm Sanskar Patidar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1wccpe1OKNEpLaEUnyP0pvK90TLXqDNm1">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1wccpe1OKNEpLaEUnyP0pvK90TLXqDNm1/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarpatidar&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarpatidar" /> </p>
 
