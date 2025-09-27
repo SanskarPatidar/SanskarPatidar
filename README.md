@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sanskarpatidar00@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1iFX210xu__XOPzQtlGndxSJ9Ae7asbmIu93SaSe0MCY/edit?usp=drive_link](https://drive.google.com/file/d/1MVePJwcDCDS37eTGKvVckpz0yFsWUKzN/view?usp=sharing)]([https://docs.google.com/document/d/1iFX210xu__XOPzQtlGndxSJ9Ae7asbmIu93SaSe0MCY/edit?usp=drive_link](https://drive.google.com/file/d/1MVePJwcDCDS37eTGKvVckpz0yFsWUKzN/view?usp=sharing))
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1iFX210xu__XOPzQtlGndxSJ9Ae7asbmIu93SaSe0MCY/edit?usp=drive_link](https://drive.google.com/file/d/1MVePJwcDCDS37eTGKvVckpz0yFsWUKzN/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
