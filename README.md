@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/1*MmMPBUewwVQeWEaDzloW0w.png)
+![MasterHead](https://github.com/SanskarPatidar/SanskarPatidar/blob/main/res/banner.png)
 <h1 align="center">Hi 👋, I'm Sanskar Patidar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/FS8SMJx6NdEAAAAi/kodee-kotlin.gif">
