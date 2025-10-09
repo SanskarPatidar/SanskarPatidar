@@ -1,14 +1,13 @@
 ![Banner](https://github.com/SanskarPatidar/SanskarPatidar/blob/main/res/banner.png)
 
-<h1 align="center">Hi, I'm Sanskar Patidar 👨‍💻</h1>
 <h3 align="center">Backend Engineer | Microservices Architect | Competitive Programmer</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanskarpatidar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://linkedin.com/in/sanskar-patidar-b83318287"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://www.leetcode.com/sanskarpatidar"><img src="https://img.shields.io/badge/LeetCode-1800+-orange?style=flat&logo=leetcode" alt="LeetCode"/></a>
   <img src="https://img.shields.io/badge/IIIT_Bhopal-CSE_'27-blue?style=flat&logo=googlescholar" alt="Education"/>
-
+<img src="https://img.shields.io/badge/Open_to-Opportunities-red?style=flat&logo=handshake" alt="Opportunities"/>
+  
 ---
 
 ## 🚀 About Me
@@ -39,11 +38,12 @@ public class Developer extends Person {
 **🔹 Project Engineer** @ Smart India Hackathon Team  
 *Sept 2025 - Oct 2025*
 
-- Led backend development for a **6-member team**, architecting **9+ microservices** using Spring Boot & Spring Cloud
-- Built a **CI/CD pipeline** with GitHub Actions, reducing deployment time by **90%** (25 min → 3 min)
-- Created a **reusable Java Client Library** eliminating **1500+ lines** of duplicate code across services
-- Established **full observability stack** (Prometheus, Grafana, Zipkin) for real-time monitoring
-- Mentored team through weekly code reviews, resolving **20+ critical bugs**
+- Led backend architecture for a cross-functional team, designing distributed microservices with Spring Boot & Spring Cloud
+- Engineered automated CI/CD workflows that transformed manual deployments into seamless, on-demand releases
+- Developed a shared library to standardize cross-cutting concerns and eliminate code duplication across services
+- Built comprehensive monitoring infrastructure for distributed tracing and real-time system observability
+- Fostered engineering excellence through collaborative code reviews and mentorship-driven problem solving
+- Followed clean architecture patterns to ensure maintainable, scalable codebases
 
 ---
 
@@ -53,10 +53,14 @@ public class Developer extends Person {
 **Crowdsourced Civic Issue Reporting System**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-- ⚡ **165 requests/second** peak capacity with 9+ independent microservices
-- 🚀 **30% throughput increase** via Kafka event-driven architecture
-- 🐳 **60% Docker image reduction** with optimized multi-stage builds
-- 📊 Real-time monitoring with **Prometheus + Grafana + Zipkin**
+* ⚡ High-performance distributed system with independent microservices architecture
+* 🚀 Event-driven processing pipeline using **Kafka** for asynchronous workflows
+* 🐳 Optimized containerization with multi-stage Docker builds
+* 📊 Real-time monitoring with **Prometheus, Grafana, Zipkin, and Spring Actuator**
+* 🔐 Secure authentication and authorization using JWT and OAuth2
+* 💾 NoSQL data persistence with **MongoDB** for flexible schema design
+* ⚡ Redis-powered caching and rate limiting for enhanced performance
+* 🛡️ Centralized global exception handling for consistent error responses
 
 ### [📚 CodeLibrary](https://github.com/yourusername/codelibrary)
 **Collaborative Code Snippet Management System**  
@@ -78,15 +82,11 @@ public class Developer extends Person {
 
 ## 🏆 Competitive Programming Achievements
 
-<p align="center">
-  <img src="https://github.com/SanskarPatidar/SanskarPatidar/blob/main/res/Gif.gif" alt="Coding" width="350"/>
-</p>
-
 - 🥇 **1800+ LeetCode Contest Rating** (Top 5% globally)
 - 💡 **900+ problems solved** across multiple platforms
 - 🔥 **200+ day daily streak** maintained consistently
 - 📝 **40+ contests completed** with active community participation
-- ✍️ Posted **40+ solutions** in Java/Kotlin, helping the community
+- ✍️ Posted **40+ solutions** in Java/Kotlin, contribution to the community
 
 **[View My LeetCode Profile →](https://www.leetcode.com/sanskarpatidar)**
 
@@ -94,35 +94,49 @@ public class Developer extends Person {
 
 ## 🛠️ Tech Stack
 
-**Backend & Core**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-**Databases & Messaging**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  <!-- Left Column -->
+  <div align="left" style="flex: 1; min-width: 300px;">
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+  <h3><b>Backend & Core</b></h3>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
 
-**Monitoring & Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zipkin](https://img.shields.io/badge/Zipkin-FF6B6B?style=for-the-badge&logo=zipkin&logoColor=white)
+  <h3><b>Databases & Messaging</b></h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 
-**Mobile & Cross-Platform**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  <h3><b>DevOps & Tools</b></h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+
+  <h3><b>Monitoring & Observability</b></h3>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zipkin-FF6B6B?style=for-the-badge&logo=zipkin&logoColor=white"/>
+
+  <h3><b>Mobile & Cross-Platform</b></h3>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+  </div>
+
+  <!-- Right Column (GIF) -->
+  <div align="center" style="flex: 0.6; min-width: 250px;">
+    <img src="https://github.com/SanskarPatidar/SanskarPatidar/blob/main/res/Gif.gif" alt="Coding" width="150"/>
+  </div>
+
+</div>
 
 ---
 
@@ -170,4 +184,4 @@ I'm always interested in discussing **backend architecture**, **distributed syst
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
 
-<p align="center">⭐ From <a href="https://github.com/sanskarpatidar">Sanskar Patidar</a> | Building scalable systems, one microservice at a time</p>
+<p align="center">⭐ From <a href="https://github.com/sanskarpatidar">Sanskar Patidar</a> | Engineering robust backends, one service at a time</p>
