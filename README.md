@@ -83,10 +83,10 @@ public class Developer extends Person {
 ## 🏆 Competitive Programming Achievements
 
 - 🥇 **1800+ LeetCode Contest Rating** (Top 5% globally)
-- 💡 **900+ problems solved** across multiple platforms
+- 💡 **1100+ problems solved** across multiple platforms
 - 🔥 **200+ day daily streak** maintained consistently
 - 📝 **40+ contests completed** with active community participation
-- ✍️ Posted **40+ solutions** in Java/Kotlin, contribution to the community
+- ✍️ Posted **40+ solutions** in Java/Kotlin, contribution to the LC community
 
 **[View My LeetCode Profile →](https://www.leetcode.com/sanskarpatidar)**
 
