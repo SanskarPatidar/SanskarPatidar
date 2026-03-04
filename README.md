@@ -156,7 +156,7 @@ I'm always interested in discussing **backend architecture**, **distributed syst
   <a href="mailto:sanskarpatidar00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/sanskar-patidar-b83318287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.leetcode.com/sanskarpatidar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://drive.google.com/file/d/1_UzoUH5Z6eX4vkVpryes3yJmZlkc5SyE/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1WJl4K_y746avSXo_jmXh86E-iadysjXN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </p>
 
 **💼 Open to:** Backend Engineering Internships | Microservices Projects | Open Source Collaborations
