@@ -49,7 +49,7 @@ public class Developer extends Person {
 
 ## 🌟 Featured Projects
 
-### [🏛️ NagrikVani](https://github.com/yourusername/nagrikvani)
+### [🏛️ NagrikVani](https://github.com/SanskarPatidar/nagrik-vani)
 **Crowdsourced Civic Issue Reporting System**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
@@ -62,7 +62,7 @@ public class Developer extends Person {
 * ⚡ Redis-powered caching and rate limiting for enhanced performance
 * 🛡️ Centralized global exception handling for consistent error responses
 
-### [📚 CodeLibrary](https://github.com/yourusername/codelibrary)
+### [📚 CodeLibrary](https://github.com/SanskarPatidar/Sih-Microservice-Client-Library)
 **Collaborative Code Snippet Management System**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
 
@@ -70,7 +70,7 @@ public class Developer extends Person {
 - 📱 **70% cross-platform code reuse** via Kotlin Multiplatform (KMP)
 - 🎯 RESTful APIs with comprehensive security implementation
 
-### [📦 Java Client Library](https://github.com/yourusername/client-library)
+### [📦 Java Client Library](https://github.com/sanskarpatidar/client-library)
 **Reusable Microservice Package**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white) ![GitHub Packages](https://img.shields.io/badge/GitHub_Packages-181717?style=flat&logo=github&logoColor=white)
 
@@ -137,23 +137,6 @@ public class Developer extends Person {
   </div>
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanskarpatidar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarpatidar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarpatidar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanskarpatidar&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
 
 ---
 
