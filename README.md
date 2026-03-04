@@ -15,7 +15,7 @@
 I'm a **Java/Kotlin Developer** specializing in building **high-performance distributed systems** and **scalable backend architectures**. Currently pursuing CS Engineering at **IIIT Bhopal** with a focus on microservices, event-driven systems, and cloud-native applications.
 
 ```java
-public class Developer extends Person {
+public class SoftwareDeveloper extends Engineer {
     private String name = "Sanskar";
     private int age = 20;
     private String[] expertise = {"Spring Boot", "Microservices", "Maven", "Kafka", "Docker", "KMP"};
