@@ -1,4 +1,4 @@
-![Banner](https://github.com/SanskarPatidar/SanskarPatidar/blob/main/res/banner.png)
+![Banner]()
 
 <h3 align="center">Backend Engineer | Microservices Architect | Competitive Programmer</h3>
 <p align="center">
