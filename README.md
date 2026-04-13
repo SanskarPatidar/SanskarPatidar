@@ -10,7 +10,7 @@
   
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Java/Kotlin Developer** specializing in building **high-performance distributed systems** and **scalable backend architectures**. Currently pursuing CS Engineering at **IIIT Bhopal** with a focus on microservices, event-driven systems, and cloud-native applications.
 
@@ -24,18 +24,18 @@ public class SoftwareDeveloper extends Engineer {
 }
 ```
 
-### 🎯 What I'm Currently Working On
+###  What I'm Currently Working On
 
-- 🏗️ **NagrikVani**: A distributed civic issue reporting system handling **10,000+ RPM** with 9+ microservices
-- 🧠 Solving **LeetCode daily** (200+ day streak, 900+ problems solved)
-- 📚 Exploring **Spring AI**, **Kubernetes**, and **Cloud-Native patterns**
-- 🎓 Contributing to open-source and sharing **Java/Kotlin solutions** with the community
+-  **NagrikVani**: A distributed civic issue reporting system handling **10,000+ RPM** with 9+ microservices
+-  Solving **LeetCode daily** (1100+ problems solved, 1890+ contest rating LEETCODE KNIGHT)
+-  Exploring **Spring AI**, **Kubernetes**, and **Cloud-Native patterns**
+-  Contributing to open-source and sharing **Java/Kotlin solutions** with the community
 
 ---
 
-## 💼 Experience Highlights
+##  Experience Highlights
 
-**🔹 Project Engineer** @ Smart India Hackathon Team  
+** Project Engineer** @ Smart India Hackathon Team  
 *Sept 2025 - Oct 2025*
 
 - Led backend architecture for a cross-functional team, designing distributed microservices with Spring Boot & Spring Cloud
@@ -47,52 +47,63 @@ public class SoftwareDeveloper extends Engineer {
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### [🏛️ NagrikVani](https://github.com/SanskarPatidar/nagrik-vani)
+### [ NagrikVani](https://github.com/SanskarPatidar/nagrik-vani)
 **Crowdsourced Civic Issue Reporting System**  
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-* ⚡ High-performance distributed system with independent microservices architecture
-* 🚀 Event-driven processing pipeline using **Kafka** for asynchronous workflows
-* 🐳 Optimized containerization with multi-stage Docker builds
-* 📊 Real-time monitoring with **Prometheus, Grafana, Zipkin, and Spring Actuator**
-* 🔐 Secure authentication and authorization using JWT and OAuth2
-* 💾 NoSQL data persistence with **MongoDB** for flexible schema design
-* ⚡ Redis-powered caching and rate limiting for enhanced performance
-* 🛡️ Centralized global exception handling for consistent error responses
+*  High-performance distributed system with independent microservices architecture
+*  Event-driven processing pipeline using **Kafka** for asynchronous workflows
+*  Optimized containerization with multi-stage Docker builds
+*  Real-time monitoring with **Prometheus, Grafana, Zipkin, and Spring Actuator**
+*  Secure authentication and authorization using JWT and OAuth2
+*  NoSQL data persistence with **MongoDB** for flexible schema design
+*  Redis-powered caching and rate limiting for enhanced performance
+*  Centralized global exception handling for consistent error responses
 
-### [📚 CodeLibrary](https://github.com/SanskarPatidar/Sih-Microservice-Client-Library)
-**Collaborative Code Snippet Management System**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
+### [ College-Help-Desk](https://github.com/SanskarPatidar/Sih-Microservice-Client-Library)
+**IIIT Bhopal AI assistant System**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-ED8B00?style=flat&logo=java&logoColor=white)
 
-- 🔐 Robust **Authentication & RBAC** using Spring Security
-- 📱 **70% cross-platform code reuse** via Kotlin Multiplatform (KMP)
-- 🎯 RESTful APIs with comprehensive security implementation
+- AI-powered **query resolution system** using Spring AI with full **RAG (Retrieval-Augmented Generation)** pipeline
+- Integrated **Elasticsearch + Redis (Vector Store)** for semantic search and similarity-based query matching
+- Implemented **intelligent caching layer** with Redis for instant responses on repeated queries
+- Designed **early return strategy** to serve cached results with minimal latency
+- Leveraged **Virtual Threads** for high concurrency and efficient request handling
+- Built scalable **ETL pipeline** for ingestion, embedding, and indexing of knowledge base data
+- Containerized services using **Docker** for consistent deployment and scalability
 
-### [📦 Java Client Library](https://github.com/sanskarpatidar/client-library)
+### [ Java Client Library](https://github.com/sanskarpatidar/client-library)
 **Reusable Microservice Package**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white) ![GitHub Packages](https://img.shields.io/badge/GitHub_Packages-181717?style=flat&logo=github&logoColor=white)
 
-- ♻️ Eliminated **1500+ lines** of duplicate code across 7 microservices
-- 📦 Published as **GitHub Package** for seamless integration
-- 🎯 Standardized logging, error handling & cross-cutting concerns
+-  Eliminated **1500+ lines** of duplicate code across 7 microservices
+-  Published as **GitHub Package** for seamless integration
+-  Standardized logging, error handling & cross-cutting concerns
 
 ---
 
-## 🏆 Competitive Programming Achievements
+##  Competitive Programming Achievements
 
-- 🥇 **1800+ LeetCode Contest Rating** (Top 5% globally)
-- 💡 **1100+ problems solved** across multiple platforms
-- 🔥 **200+ day daily streak** maintained consistently
-- 📝 **40+ contests completed** with active community participation
-- ✍️ Posted **40+ solutions** in Java/Kotlin, contribution to the LC community
+-  **1890+ Contest Rating @Leetcode Knight** (Top 5% globally)
+-  **1100+ problems solved** across multiple platforms
+-  **200+ day daily streak** maintained consistently
+-  **40+ contests completed** with active community participation
+-  Posted **40+ solutions** in Java/Kotlin, contribution to the LC community
 
 **[View My LeetCode Profile →](https://www.leetcode.com/sanskarpatidar)**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
@@ -124,23 +135,14 @@ public class SoftwareDeveloper extends Engineer {
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zipkin-FF6B6B?style=for-the-badge&logo=zipkin&logoColor=white"/>
-
-  <h3><b>Mobile & Cross-Platform</b></h3>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-
-  </div>
-
-  <!-- Right Column (GIF) -->
-  <div align="center" style="flex: 0.6; min-width: 250px;">
-    <img src="https://github.com/SanskarPatidar/SanskarPatidar/blob/main/res/Gif.gif" alt="Coding" width="150"/>
+  
   </div>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpatidar&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
@@ -148,7 +150,7 @@ public class SoftwareDeveloper extends Engineer {
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always interested in discussing **backend architecture**, **distributed systems**, **system design**, or **competitive programming**!
 
@@ -159,7 +161,7 @@ I'm always interested in discussing **backend architecture**, **distributed syst
   <a href="https://drive.google.com/file/d/1WJl4K_y746avSXo_jmXh86E-iadysjXN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </p>
 
-**💼 Open to:** Backend Engineering Internships | Microservices Projects | Open Source Collaborations
+** Open to:** Backend Engineering Internships | Microservices Projects | Open Source Collaborations
 
 ---
 
@@ -167,4 +169,4 @@ I'm always interested in discussing **backend architecture**, **distributed syst
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
 
-<p align="center">⭐ From <a href="https://github.com/sanskarpatidar">Sanskar Patidar</a> | Engineering robust backends, one service at a time</p>
+<p align="center"> From <a href="https://github.com/sanskarpatidar">Sanskar Patidar</a> | Engineering robust backends, one service at a time</p>
