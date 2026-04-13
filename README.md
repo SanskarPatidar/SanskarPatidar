@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanskarpatidar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://linkedin.com/in/sanskar-patidar-b83318287"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.leetcode.com/sanskarpatidar"><img src="https://img.shields.io/badge/LeetCode-1800+-orange?style=flat&logo=leetcode" alt="LeetCode"/></a>
+  <a href="https://www.leetcode.com/sanskarpatidar"><img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat&logo=leetcode" alt="LeetCode"/></a>
   <img src="https://img.shields.io/badge/IIIT_Bhopal-CSE_'27-blue?style=flat&logo=googlescholar" alt="Education"/>
 <img src="https://img.shields.io/badge/Open_to-Opportunities-red?style=flat&logo=handshake" alt="Opportunities"/>
   
