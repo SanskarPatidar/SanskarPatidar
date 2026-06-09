@@ -64,7 +64,7 @@ public class SoftwareDeveloper extends Engineer {
 *  Redis-powered caching and rate limiting for enhanced performance
 *  Centralized global exception handling for consistent error responses
 
-### [ College-Help-Desk](https://github.com/SanskarPatidar/Sih-Microservice-Client-Library)
+### [ College-Help-Desk](https://github.com/SanskarPatidar/college-help-desk)
 **IIIT Bhopal AI assistant System**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
